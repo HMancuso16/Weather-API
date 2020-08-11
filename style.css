@@ -1,0 +1,93 @@
+.navbar{
+    justify-content: center;
+}
+
+.sidenav{
+    min-height: 100vh !important;
+}
+
+label{
+    font-weight: 400;
+    padding-top: 5px;
+    font-size: 20px;
+}
+
+input{
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    line-height: 30px;
+    width: 100%;
+    margin-right: 0px !important;
+    padding: 5px;
+    padding-left: 8px;
+}
+
+h1 {
+    letter-spacing: 1px;
+}
+
+button{
+    color: white;
+    background: rgb(6, 29, 238);
+    border-radius: 4px;
+    box-shadow: 0px 0px 0px 4px rgba(68, 158, 254, 0.897);
+    padding: 10px;
+    font-size: 15px;
+    margin-left: 0px !important;
+    margin-bottom: 20px;
+}
+
+.info-container{
+    margin: 15px;
+    border: solid 1px #ccc;
+    border-radius: 5px;
+    padding: 30px;
+    width: 100%;
+    line-height: 50px;
+    letter-spacing: 1px;
+}
+
+#five-day-forecast{
+    padding: 30px;
+}
+
+.five-day-weather {
+    background-color: rgba(62, 44, 227, 0.927);
+    border-radius: 5px;
+    padding: 10px;
+    line-height: 35px;
+    color: white;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    display: inline-block;
+}
+
+.uvGreen{
+    background-color: lime;
+    color: white;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+.uvYellow{
+    background-color: light yellow;
+    color: white;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+.uvRed{
+    background-color: red;
+    color: white;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+.list {
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    line-height: 30px;
+    padding: 5px;
+    padding-left: 10px;
+}
